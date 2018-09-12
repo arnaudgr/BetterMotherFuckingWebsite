@@ -5,12 +5,23 @@ body
 	background: rgb(238,238,238);
 	font-size: 16px;
 }
+#exemple
+{
+background : rgb(200,200,200);
+
+}
+<script>
+
+var background = document.getElementById("exemple");
+			elmt.style.backgroundColor = "rgb (200,10,10)"
+</script>
 
 p
 {
 
 	line-height:1.4;
 }
+
 blockquote
 {
 	margin-left : 10%;
