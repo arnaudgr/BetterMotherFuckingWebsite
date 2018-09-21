@@ -11,7 +11,7 @@ setTimeout("afficherMessage()", 3000);
 
 		function changementApparence()
 		{
-			var elmt = document.getElementById("exemple");
+			var elmt = document.getElementById("corps");
 			elmt.style.backgroundColor = "magenta";
 
 			
